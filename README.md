@@ -240,7 +240,7 @@ $$ S_t < {1 \over B_d} $$
 
 <div align="center">
     <figure >
-    <img src="/pics/grid.drawio.svg" width="99%"/>
+    <img src="/pics/grid.drawio.svg" width="79%"/>
     <figcaption><center>Рисунок 13 - Пример сетки пилотных тонов для дальнейшей интерполяции.</center></figcaption>
     </figure>
 </div>
