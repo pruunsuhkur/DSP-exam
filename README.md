@@ -241,7 +241,6 @@ $$ S_t < {1 \over B_d} $$
 <div align="center">
     <figure >
     <img src="/pics/grid.drawio.svg" width="50%"/>
-    <figcaption><center>Рисунок 13 - Сетка пилотных тонов.</center></figcaption>
     </figure>
 </div>
 
