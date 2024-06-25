@@ -21,7 +21,7 @@
 
 <div align="center">
     <figure >
-    <img src="/pics/reconstruction_filter.drawio " width="99%"/>
+    <img src="/pics/reconstruction_filter.drawio.svg" width="99%"/>
     <figcaption><center>Рисунок 1 - Сравнение требуемых АЧХ фильтров для разных частот дискретизации.</center></figcaption>
     </figure>
 </div>
