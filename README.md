@@ -240,7 +240,7 @@ $$ S_t < {1 \over B_d} $$
 
 <div align="center">
     <figure >
-    <img src="/pics/grid.drawio.svg" width="50%"/>
+    <img src="/pics/grid.drawio.svg" width="33%"/>
     </figure>
 </div>
 
